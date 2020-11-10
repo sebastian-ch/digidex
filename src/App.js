@@ -4,6 +4,7 @@ import _ from 'lodash'
 import Search from './Search'
 import Header from './Header'
 import './styles.css'
+import data from './data/data.json'
 
 
 export default class App extends React.Component {
@@ -19,14 +20,12 @@ export default class App extends React.Component {
   }
 
     componentDidMount() {
-        d3.json('/data').then((response) => {
-          //console.log(response);
             this.setState({ 
-              users: response,
-              filtered: response
+              users: data,
+              filtered: data
 
             })
-        });
+       
     }
 
     filterOnChange = (event) => {
@@ -55,7 +54,7 @@ export default class App extends React.Component {
     render() {
         const { filtered } = this.state;
 
-        //console.log(this.state.users[0])
+        //console.log(this.state.users)
 
       return (
         <div>

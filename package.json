@@ -15,7 +15,8 @@
   },
   "scripts": {
     "start-client": "react-scripts start",
-    "start": "npm run build && (cd server && npm start) && scp -r ./build/* /var/www/digimon.rocks/html",
+    "start": "npm run build && scp -r ./build/* /var/www/digimon.rocks/html",
+    "test1": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

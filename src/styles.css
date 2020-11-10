@@ -2,6 +2,12 @@
 
 html {
     font-family: 'PT Mono', monospace;
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none; 
+}
+
+html::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
 }
 
 h2 {
@@ -14,8 +20,13 @@ input {
 }
 
 body {
-    font-size: 15px;
+    font-size: 15px; 
+    scrollbar-width: none; 
+
 }
+
+
+
 
 .users {
     margin: 0;
@@ -62,8 +73,9 @@ body {
 }
 
 .header {
-  text-align: center;
+    text-align: center;
 }
+
 .logo {
     height: 100%;
 }
