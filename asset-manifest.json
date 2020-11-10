@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digidex/static/css/main.ec5d8d1d.chunk.css",
+    "main.js": "/digidex/static/js/main.74e8bbc7.chunk.js",
+    "main.js.map": "/digidex/static/js/main.74e8bbc7.chunk.js.map",
+    "runtime-main.js": "/digidex/static/js/runtime-main.15765b9c.js",
+    "runtime-main.js.map": "/digidex/static/js/runtime-main.15765b9c.js.map",
+    "static/js/2.995d385d.chunk.js": "/digidex/static/js/2.995d385d.chunk.js",
+    "static/js/2.995d385d.chunk.js.map": "/digidex/static/js/2.995d385d.chunk.js.map",
+    "index.html": "/digidex/index.html",
+    "static/css/main.ec5d8d1d.chunk.css.map": "/digidex/static/css/main.ec5d8d1d.chunk.css.map",
+    "static/js/2.995d385d.chunk.js.LICENSE.txt": "/digidex/static/js/2.995d385d.chunk.js.LICENSE.txt",
+    "static/media/digimon_logo.92c1bbaf.png": "/digidex/static/media/digimon_logo.92c1bbaf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15765b9c.js",
+    "static/js/2.995d385d.chunk.js",
+    "static/css/main.ec5d8d1d.chunk.css",
+    "static/js/main.74e8bbc7.chunk.js"
+  ]
+}
