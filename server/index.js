@@ -30,7 +30,7 @@ db.all(sql, [], (err, rows) => {
     res.sendFile(path.join(__dirname, "public", "index.html"));
   });
 
-  app.get('/data', (req, res) => {
+  app.get('157.230.227.43/data', (req, res) => {
     
     res.json(objs);
 
