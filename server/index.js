@@ -33,6 +33,7 @@ db.all(sql, [], (err, rows) => {
   app.get('/data', (req, res) => {
     
     res.json(objs);
+    console.log(objs[0])
 
 
 
