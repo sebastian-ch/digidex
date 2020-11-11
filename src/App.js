@@ -9,14 +9,17 @@ import data from './data/data.json'
 export default class App extends React.Component {
 
   constructor() {
-    super()
+    super();
     this.state = {
         users: [],
         filtered: []
         
     };
     this.filterOnChange = this.filterOnChange.bind(this);
+    
   }
+
+ 
 
     componentDidMount() {
             this.setState({ 
