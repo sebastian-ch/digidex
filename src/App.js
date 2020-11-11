@@ -1,5 +1,4 @@
 import React from 'react'
-import * as d3 from 'd3'
 import _ from 'lodash'
 import Search from './Search'
 import Header from './Header'
@@ -30,7 +29,7 @@ export default class App extends React.Component {
 
     filterOnChange = (event) => {
 
-        console.log(event.target.value);
+        //console.log(event.target.value);
 
         
         

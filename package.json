@@ -1,13 +1,11 @@
 {
   "name": "react-app",
-  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
     "@testing-library/user-event": "^12.2.0",
-    "d3": "^6.2.0",
     "lodash": "^4.17.20",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -16,8 +14,8 @@
   },
   "scripts": {
     "start-client": "react-scripts start",
-    "start": "npm run build && scp -r ./build/* /var/www/digimon.rocks/html",
-    "test1": "npm run build",
+    "start1": "react-scripts start",
+    "start": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
