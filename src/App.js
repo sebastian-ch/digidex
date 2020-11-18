@@ -3,7 +3,7 @@ import _ from 'lodash'
 import Search from './Search'
 import Header from './Header'
 import './styles.css'
-import data from './data/data.json'
+import data from './data/data-new.json'
 
 
 export default class App extends React.Component {
