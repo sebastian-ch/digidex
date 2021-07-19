@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.4bfd586c.chunk.css",
-    "main.js": "/static/js/main.aca5359d.chunk.js",
-    "main.js.map": "/static/js/main.aca5359d.chunk.js.map",
+    "main.css": "/static/css/main.914a1d8a.chunk.css",
+    "main.js": "/static/js/main.1ebd559d.chunk.js",
+    "main.js.map": "/static/js/main.1ebd559d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e4aa085.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e4aa085.js.map",
     "static/js/2.45e24fea.chunk.js": "/static/js/2.45e24fea.chunk.js",
     "static/js/2.45e24fea.chunk.js.map": "/static/js/2.45e24fea.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4bfd586c.chunk.css.map": "/static/css/main.4bfd586c.chunk.css.map",
+    "static/css/main.914a1d8a.chunk.css.map": "/static/css/main.914a1d8a.chunk.css.map",
     "static/js/2.45e24fea.chunk.js.LICENSE.txt": "/static/js/2.45e24fea.chunk.js.LICENSE.txt",
     "static/media/digimon_logo.92c1bbaf.png": "/static/media/digimon_logo.92c1bbaf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8e4aa085.js",
     "static/js/2.45e24fea.chunk.js",
-    "static/css/main.4bfd586c.chunk.css",
-    "static/js/main.aca5359d.chunk.js"
+    "static/css/main.914a1d8a.chunk.css",
+    "static/js/main.1ebd559d.chunk.js"
   ]
 }
