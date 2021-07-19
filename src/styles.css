@@ -40,6 +40,14 @@ body {
 
 }
 
+#seblink {
+    text-align: center;
+    margin: 10px auto 10px auto;
+    position: absolute;
+    width: 99%;
+}
+
+
 .user {
     padding: 2rem;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);

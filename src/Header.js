@@ -5,7 +5,12 @@ console.log(logo);
 
 
 function Header() {
-    return <div className='header'><img src={logo} className='logo' alt="Digimon Logo" /></div>
+    return <div className='header'>
+        
+        <img src={logo} className='logo' alt="Digimon Logo" />
+        
+    
+    </div>
 }
 
 export default Header;

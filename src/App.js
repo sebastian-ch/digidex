@@ -61,6 +61,7 @@ export default class App extends React.Component {
       return (
         <div>
           <Header />
+          <a id='seblink' href='https://github.com/sebastian-ch' target='_blank'>My GitHub</a><br></br>
           <Search filterOnChange={this.filterOnChange} />
           <div className="users" > {
             filtered.map((d) => (
